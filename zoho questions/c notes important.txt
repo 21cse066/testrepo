@@ -1,0 +1,18 @@
+pointers:
+
+aadhu romba simple 
+namma address maari thaan
+ippo int a=10; nu declare panrom
+edhu ku int *ab nu pointer vaikirom
+now just say ab = &a;
+edhu enna na 'a' ooda address sa 'ab' yum hold pannum
+like 
+
+ab = 20 = a
+
+normal notes
+
+a = *ab while printing it use %d for integer
+while denoteing to address or location :
+ab = &a use %p
+ 
